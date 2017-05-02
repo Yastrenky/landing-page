@@ -1,0 +1,108 @@
+h2 {
+  color: white;
+  font-family: "Whitney A", "Whitney B", "Avenir", Helvetica, sans-serif;
+  font-size: 31px;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+h2.logowistia {
+  margin-left: 58px;
+}
+
+a.logowistia {
+  padding: 10px 15px;
+  color: white;
+  background: #3ea9f5;
+  border: 1px solid rgba(255, 255, 255, 0.77);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 28px;
+  line-height: 22px;
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  height: 23px;
+  margin-top: 28px;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+h4 {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 11px;
+  margin-bottom: 16px;
+  line-height: 27px;
+  width: 88%;
+  margin: 11px auto 13px auto;
+}
+
+.contact-form {
+  display: center;
+}
+
+.contact-form input {
+  margin-top: 10px;
+  display: block;
+}
+
+.container {
+  text-align: -webkit-center;
+  padding: 10px 20px 30px;
+  background: url(https://wistia.com/assets/product/patterns/tic-tac-toe-white-a8e65fed56843e6e7892a82b2c19b0f6.png);
+  background-color: #3ea9f5;
+  background-repeat: repeat;
+  background-size: 209px;
+  font-family: "Whitney A", "Whitney B", "Avenir", Helvetica, sans-serif;
+  background-position: 50% -1%;
+}
+
+.container-form {
+  height: auto;
+  max-width: 595px;
+  margin-top: 84px;
+}
+
+.contact-form input, .select-option, .button {
+  font-size: 16px;
+  height: auto;
+  padding: 21px 23px;
+  display: inline-block;
+  border: 2px solid white;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.select-option {
+  width: 85%;
+}
+
+.button {
+  width: 85%;
+  background-color: #c693e9;
+  color: white;
+  font-family: "Whitney A", "Whitney B", "Avenir", Helvetica, sans-serif;
+  font-size: 17px;
+  left: 0;
+  padding: 21px;
+  position: relative;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+div.container p, a {
+  color: white;
+  margin-top: 47px;
+}
